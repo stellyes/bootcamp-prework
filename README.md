@@ -1,7 +1,5 @@
 # UC Berkeley Extension: Prework Module
 
-Ryan England
-
 ## Description
 
 The goals of this module are to:
